@@ -7,6 +7,10 @@ class Feature extends Component{
                <h3>
                    Security provided by
                </h3>
+                <h3>
+                    clothing organization
+                    
+                </h3>
            </diV>
         )
     }
