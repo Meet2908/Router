@@ -5,7 +5,7 @@ class Feature extends Component{
         return(
            <diV>
                <h3>
-                   Security provided 
+                   Security provided by
                </h3>
            </diV>
         )
